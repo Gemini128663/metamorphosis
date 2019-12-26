@@ -1,3 +1,5 @@
+[![MIT](https://img.shields.io/badge/LICENSE-MIT-red)]()
+
 # 从菜鸟到菜鸡
 
 ## 前言
