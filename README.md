@@ -1,5 +1,6 @@
-[![MIT](https://img.shields.io/badge/LICENSE-MIT-red)]()
-
+[![MIT](https://img.shields.io/badge/LICENSE-MIT-red)](https://github.com/Gemini128663/metamorphosis/blob/master/LICENSE)
+[![version](https://img.shields.io/badge/VS%20code%20version-v1.41.1-orange
+)](https://img.shields.io/badge/VS%20code%20version-v1.41.1-orange)
 # 从菜鸟到菜鸡
 
 ## 前言
@@ -39,7 +40,7 @@
 
 这是之前与修改过后的页面的对比：  
 
-![](docs/对比2.png)  
+![第一次计算器页面对比](docs/对比2.png)  
 
 可以看到功能基本实现，但是界面依然很是丑陋。在这个过程中，可以说算是整个项目中最难的时候，半吊子出家，从没有学过甚至接触过，手上也没有现成的资料，只有去网上找官方文档，找别人走过的路，尽管如此，网上的有用信息依然很少和零散，仿佛大海捞针一样，一点一滴的将所有有用的信息拼接起来。功夫不负有心人，所幸，我做到了，
 
