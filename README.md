@@ -1,4 +1,4 @@
-[![MIT](https://img.shields.io/badge/LICENSE-MIT-red)](https://github.com/Gemini128663/metamorphosis/blob/master/LICENSE)
+[![MIT](https://img.shields.io/badge/LICENSE-MIT-red)](https://github.com/Gemini128663/metamorphosis/raw/master/LICENSE)
 [![version](https://img.shields.io/badge/VS%20code%20version-v1.41.1-orange
 )](https://img.shields.io/badge/VS%20code%20version-v1.41.1-orange)
 # 从菜鸟到菜鸡
@@ -23,7 +23,7 @@
 
 第一次页面对比：
 
-![第一次对比](docs/对比1.png)
+![第一次对比](https://github.com/Gemini128663/metamorphosis/raw/master/docs/对比1.png)
 
 仅从这两张图片就可以看出，在除了界面之外，功能上确实少了许多东西。
 
@@ -40,13 +40,13 @@
 
 这是之前与修改过后的页面的对比：  
 
-![第一次计算器页面对比](docs/对比2.png)  
+![第一次计算器页面对比](https://github.com/Gemini128663/metamorphosis/raw/master/docs/对比2.png)  
 
 可以看到功能基本实现，但是界面依然很是丑陋。在这个过程中，可以说算是整个项目中最难的时候，半吊子出家，从没有学过甚至接触过，手上也没有现成的资料，只有去网上找官方文档，找别人走过的路，尽管如此，网上的有用信息依然很少和零散，仿佛大海捞针一样，一点一滴的将所有有用的信息拼接起来。功夫不负有心人，所幸，我做到了，
 
 这是我代码的目录以及文件名：
 
-![项目文件夹](docs/项目.png)
+![项目文件夹](https://github.com/Gemini128663/metamorphosis/raw/master/docs/项目.png)
 
 如果我不是开发者，我都不知道哪一个是我自己的项目，更不要说别人看见这个文件夹了。
 
@@ -67,7 +67,7 @@
 
 这两张图片是再修改之后的文件结构：
 
-![文件结构对比](docs/对比4.png)
+![文件结构对比](https://github.com/Gemini128663/metamorphosis/raw/master/docs/对比4.png)
 
 ## 后来
 
@@ -75,11 +75,11 @@
 
 最终上传至&#8194;github&#8194;上的文件结构：  
 
-![最终](docs/最终.png)
+![最终](https://github.com/Gemini128663/metamorphosis/raw/master/docs/最终.png)
 
 最后一次计算器页面的对比：  
 
-![具体页面](docs/对比3.png)
+![具体页面](https://github.com/Gemini128663/metamorphosis/raw/master/docs/对比3.png)
 
 ## 写在最后
 
